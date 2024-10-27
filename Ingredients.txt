@@ -1,0 +1,34 @@
+Beetle Scuttle Breach Increase Armor Protection Vitality
+Blessed Thistle Restore Stamina Increase Weapon Power Ravage Health Speed
+Blue Entoloma Ravage Magicka Cowardice Restore Health Invisible
+Bugloss Increase Spell Resist Restore Health Cowardice Restore Magicka
+Butterfly Wing Restore Health Uncertainty Lingering Health Vitality
+Chaurus Egg Timidity Ravage Magicka Restore Stamina Detection
+Clam Gall Increase Spell Resist Hindrance Vulnerability Defile
+Columbine Restore Health Restore Magicka Restore Stamina Unstoppable
+Corn Flower Restore Magicka Increase Spell Power Ravage Health Detection
+Crimson Nirnroot Timidity Spell Critical Gradual Ravage Health Restore Health
+Dragon Rheum Restore Magicka Heroism Enervation Speed
+Dragon's Bile Heroism Vulnerability Invisible Vitality
+Dragon's Blood Lingering Health Restore Stamina Heroism Defile
+Dragonthorn Increase Weapon Power Restore Stamina Fracture Weapon Critical
+Emetic Russula Ravage Health Ravage Magicka Ravage Stamina Entrapment
+Fleshfly Larva Ravage Stamina Vulnerability Gradual Ravage Health Vitality
+Imp Stool Maim Ravage Stamina Increase Armor Enervation
+Lady's Smock Increase Spell Power Restore Magicka Breach Spell Critical
+Luminous Russula Ravage Stamina Maim Restore Health Hindrance
+Mountain Flower Increase Armor Restore Health Maim Restore Stamina
+Mudcrab Chitin Increase Spell Resist Increase Armor Protection Defile
+Namira's Rot Spell Critical Speed Invisible Unstoppable
+Nightshade Ravage Health Protection Gradual Ravage Health Defile
+Nirnroot Ravage Health Uncertainty Enervation Invisible
+Powdered Mother of Pearl Lingering Health Speed Vitality Protection
+Scrib Jelly Ravage Magicka Speed Vulnerability Lingering Health
+Spider Egg Hindrance Invisible Lingering Health Defile
+Stinkhorn Fracture Ravage Health Increase Weapon Power Ravage Stamina
+Torchbug Thorax Fracture Enervation Detection Vitality
+Vile Coagulant Timidity Ravage Health Restore Magicka Protection
+Violet Coprinus Breach Ravage Health Increase Spell Power Ravage Magicka
+Water Hyacinth Restore Health Spell Critical Weapon Critical Entrapment
+White Cap Cowardice Ravage Magicka Increase Spell Resist Detection
+Wormwood Weapon Critical Hindrance Detection Unstoppable
