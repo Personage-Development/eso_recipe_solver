@@ -1,9 +1,23 @@
 class Ingredient:
-    def __init__(self, ing1, ing2, ing3, ing4):
+    def __init__(self, name, ing1, ing2, ing3, ing4):
+        self.name = name
         self.ing1 = ing1
         self.ing2 = ing2
         self.ing3 = ing3
         self.ing4 = ing4
+
+#function to test ingredient
+def print_ingredient(ingredient):
+    print(f"Ingredient: {ingredient.name}")
+    print(f"  Effect 1: {ingredient.ing1}")
+    print(f"  Effect 2: {ingredient.ing2}")
+    print(f"  Effect 3: {ingredient.ing3}")
+    print(f"  Effect 4: {ingredient.ing4}")
+
+def print_all_ingredients(ingredients):
+    for ingredient in ingredients:
+        print_ingredient(ingredient)
+        print()  # Adds a blank line between each ingredient for readability
 
 def return_effect(effect_name):
     switch = {
@@ -74,3 +88,23 @@ def read_effect(effect_ID):
         30: "Entrapment"
     }
     return switch.get(effect_ID, "Effect ID not found")
+
+# Path to the file containing the ingredient list
+file_path = "C:/Users/Noah/Documents/repos/eso_recipe_solver/ingredients.txt"
+
+# List to store the ingredient objects
+ingredients_list = []
+
+# Reading the file and creating Ingredient objects
+with open(file_path, "r") as file:
+    for line in file:
+        # Split each line by commas to get name and effects
+        parts = line.strip().split(', ')  # Split by comma and space for readability
+        
+        if len(parts) == 5:  # Ensure there are exactly 5 parts
+            name, ing1, ing2, ing3, ing4 = parts
+            # Create an Ingredient object and add it to the list
+            ingredient = Ingredient(name, ing1, ing2, ing3, ing4)
+            ingredients_list.append(ingredient)
+
+print_all_ingredients(ingredients_list)
